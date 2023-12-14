@@ -16,5 +16,10 @@ Accelerated Output Example: Stage Product for 228 Days.
 
 Target Output Examples: 49 Days of target Shelf Life Achieved.
 
+## How to run:
+```sh
+python3 accelerated_aging_calculator.py
+```
+
 ## License
 MIT License
