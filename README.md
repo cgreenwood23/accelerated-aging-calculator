@@ -6,11 +6,11 @@ This calculator can also be used to determine the target shelf life achieved bas
 ## Calculator Inputs:
 | Input | Description | Application Used | Example |
 | --- | --- | --- | ---|
-| Target Shelf Life | | Accelerated | 395 Days |
-| Accelerated Aging Temperature (TAA) | | Accelerated/Target | 12C |
-| Real-time Ambient Shelf Temperature (TRT) | | Accelerated | 4C |
-| Q10 Value | | Accelerated/Target | 2.0 |
-| Number of Real-time days completed | | Target | 28 Days |
+| Target Shelf Life | - | Accelerated | 395 Days |
+| Accelerated Aging Temperature (TAA) | - | Accelerated/Target | 12C |
+| Real-time Ambient Shelf Temperature (TRT) | - | Accelerated | 4C |
+| Q10 Value | - | Accelerated/Target | 2.0 |
+| Number of Real-time days completed | - | Target | 28 Days |
 
 Accelerated Output Example: Stage Product for 228 Days.
 
