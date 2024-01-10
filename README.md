@@ -26,7 +26,7 @@ pip install
 ## Usage:
 Using pip:
 ```sh
-python3 accelerated_aging_calculator_Final.py
+python3 accelerated_aging_calculator_final.py
 ```
 
 ## License
